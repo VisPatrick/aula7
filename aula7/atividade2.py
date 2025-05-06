@@ -11,6 +11,7 @@ def calcular_multa(n):
     multa = limite * 4
     return multa
 
+
 peso = float(input('\nDigite o peso do peixe: '))
 
 
